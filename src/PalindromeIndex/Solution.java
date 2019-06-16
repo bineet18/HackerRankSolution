@@ -3,7 +3,7 @@ package PalindromeIndex;
 import java.io.*;
 import java.util.*;
 
-public class Code1 
+public class Solution 
 {
     public static void main(String[] args) throws IOException 
     {

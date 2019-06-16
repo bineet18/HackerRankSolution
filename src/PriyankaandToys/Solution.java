@@ -3,7 +3,7 @@ package PriyankaandToys;
 import java.io.*;
 import java.util.*;
 
-public class Code1 {
+public class Solution {
     public static void main(String[] args) throws IOException {
     	Scanner scanner = new Scanner(System.in);
     	int n = scanner.nextInt();

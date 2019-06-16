@@ -8,7 +8,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class TwoDArray 
+public class Solution 
 {
     public static void main(String[] args) throws IOException 
     {

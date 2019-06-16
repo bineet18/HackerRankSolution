@@ -1,13 +1,12 @@
 package LarrysArray;
-
 import java.io.*;
 import java.util.*;
 
-public class Code2 
+public class Solution 
 {
     public static void main(String[] args) throws IOException 
     {
-    	Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int t = scanner.nextInt();
 
         for (int tItr = 0; tItr < t; tItr++) 
@@ -42,9 +41,8 @@ public class Code2
             if(a[n-3]<a[n-2] && a[n-2]<a[n-1])
                 System.out.println("YES");
             else
-            	System.out.println("NO");
+                System.out.println("NO");
         }
         scanner.close();
     }
-
 }

@@ -2,7 +2,7 @@ package AlmostSorted;
 
 import java.io.*;
 
-public class Code2 {
+public class Solution {
   public static void main(String[] args) throws IOException {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
