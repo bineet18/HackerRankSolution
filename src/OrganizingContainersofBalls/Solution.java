@@ -3,7 +3,7 @@ package OrganizingContainersofBalls;
 import java.io.*;
 import java.util.*;
 
-public class Code2 {
+public class Solution {
     public static void main(String[] args) throws IOException {
     	Scanner scanner = new Scanner(System.in);
         int q = scanner.nextInt();
