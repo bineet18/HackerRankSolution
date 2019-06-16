@@ -1,9 +1,13 @@
 package ArrayD;
-
 import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
 import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 
-public class Code1 
+public class Solution 
 {
     public static void main(String[] args) throws IOException 
     {
@@ -18,7 +22,7 @@ public class Code1
         
         for(int i =0;i<n;i++)
         {
-            System.out.println(arr[i]+" ");
+            System.out.print(arr[i]+" ");
         }
         scanner.close();
     }
