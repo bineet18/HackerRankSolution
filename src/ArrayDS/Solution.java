@@ -1,4 +1,4 @@
-package ArrayD;
+package ArrayDS;
 import java.io.*;
 import java.math.*;
 import java.security.*;
